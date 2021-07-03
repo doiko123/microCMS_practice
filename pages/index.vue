@@ -115,7 +115,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 @media (min-width: 1160px) {
   .loader {
     color: #ccc;
